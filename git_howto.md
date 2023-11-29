@@ -28,3 +28,7 @@ git checkout
 ```sh
 git status
 ```
+## Отображение изменений между коммитами:
+```sh
+git diff
+```
