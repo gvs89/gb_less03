@@ -32,3 +32,7 @@ git status
 ```sh
 git diff
 ```
+## добавление всех файлов:
+```sh
+git add .
+```
