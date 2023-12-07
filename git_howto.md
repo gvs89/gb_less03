@@ -36,3 +36,13 @@ git diff
 ```sh
 git add .
 ```
+## Перечисление, создание или удаление веток:
+```sh
+git branch
+git branch <branch_name>
+git branch -d <branch_name>
+```
+## Объединение двух или более историй разработки вместе:
+```sh
+git merge <branch_name>
+```
