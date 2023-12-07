@@ -22,7 +22,7 @@ git log --oneline
 ```
 ## Перемещение между ветками:
 ```sh
-git checkout
+git checkout <имя ветки>
 ```
 ## Отображение состояния рабочего дерева:
 ```sh
@@ -36,13 +36,13 @@ git diff
 ```sh
 git add .
 ```
-## Перечисление, создание или удаление веток:
+## Перемещение, создание или удаление веток:
 ```sh
 git branch
-git branch <branch_name>
-git branch -d <branch_name>
+git branch <имя ветки>
+git branch -d <имя ветки>
 ```
 ## Объединение двух или более историй разработки вместе:
 ```sh
-git merge <branch_name>
+git merge <имя ветки>
 ```
