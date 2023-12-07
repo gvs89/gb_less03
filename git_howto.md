@@ -10,7 +10,7 @@ git add
 ```
 ## Запись изменений в репозиторий:
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 ## Показать журналы коммитов:
 ```sh
