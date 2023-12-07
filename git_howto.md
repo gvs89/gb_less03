@@ -22,7 +22,7 @@ git log --oneline
 ```
 ## Перемещение между ветками:
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 ## Отображение состояния рабочего дерева:
 ```sh
