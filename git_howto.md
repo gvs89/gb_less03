@@ -51,3 +51,4 @@ git branch -d <имя_ветки>
 ```sh
 git merge <имя ветки>
 ```
+## 
