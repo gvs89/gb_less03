@@ -18,7 +18,7 @@ git log
 ```
 ## Показать журналы коммитов в одну линию:
 ```sh
-git log --oneline
+git log --onelane --graph
 ```
 ## Перемещение между ветками:
 ```sh
@@ -51,3 +51,4 @@ git branch -d <имя_ветки>
 ```sh
 git merge <имя ветки>
 ```
+## 
