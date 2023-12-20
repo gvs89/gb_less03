@@ -57,3 +57,7 @@ git merge <имя ветки>
 ```sh
 git clone <адрес репозитория GitHub>
 ```
+## Выталкивание на сервер  GitHub
+```sh
+git push
+```
