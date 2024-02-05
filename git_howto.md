@@ -64,4 +64,5 @@ git push
 ## Забрать с сервера 
 ```sh
 git pull
+git push --set-upstream origin updatereadme
 ```
